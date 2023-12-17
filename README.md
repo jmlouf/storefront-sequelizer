@@ -43,6 +43,8 @@ The following images demonstrate the application's appearance and functionality:
 ![Screenshot](./assets/images/mockup-2.png)
 ![Screenshot](./assets/images/mockup-3.png)
 
+[Video Walkthrough Link](https://drive.google.com/file/d/1BVWsvQ45Jvy3_6IlqJDD-a6OcdqOM4SE/view_)
+
 ## Credits
 
 This project was created for educational purposes as part of the KU Coding Bootcamp curriculum.
